@@ -2,7 +2,7 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/user/018ee227-d057-4ba2-808e-8aec95136b2d.svg)](https://wakatime.com/@018ee227-d057-4ba2-808e-8aec95136b2d)
+<!-- [![wakatime](https://wakatime.com/badge/user/018ee227-d057-4ba2-808e-8aec95136b2d.svg)](https://wakatime.com/@018ee227-d057-4ba2-808e-8aec95136b2d) -->
 
 [![jiexijade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiexijade&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
